@@ -5,6 +5,7 @@ In statistics, linear regression is a linear approach for modelling the relation
 
 #### Continuous Value Data Generation
 Generatation of 200 random values, distributed around 20. Plotting the histogram will generate a not linear distribution...
+
 ![image](https://user-images.githubusercontent.com/86708470/167184007-9f256135-7742-4df9-a8d6-3f7ba9f33a5a.png)
 
 
